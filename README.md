@@ -1,9 +1,9 @@
 # Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://i.imgur.com/Vk2eWx1.gif" width="30px">
 
-<samp>You have finally discovered my **`GitHub Profile`**. <br>
-Please feel free to **`clone`** projects and **`raise issues`** if you think something could be better.
+<p align="center"><samp>You have finally discovered my **`GitHub Profile`**. <br>
+Please feel free to **`clone`** projects and **`raise issues`** if you think something could be better.</samp></p>
 
-Happy Coding! :octocat:</samp>
+<p align="center"><samp>Happy Coding!</samp> :octocat:</p>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
