@@ -5,6 +5,9 @@
 
 <p align="center"><samp>Happy Coding!</samp> :octocat:</p>
 
+<details>
+<summary>Get Some Inspiration</summary>
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 ```javascript
@@ -28,6 +31,8 @@ always:
 		you should goto always;
 	}
 ```
+</details>
+
 ### `We're made of star stuff. We are a way for the cosmos to know itself`- _Carl Sagan_
 <!--
 **pranjalagg/pranjalagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
