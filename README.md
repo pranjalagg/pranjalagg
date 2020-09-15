@@ -1,7 +1,15 @@
+## Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+
+You have finally discovered my Github profile. <br>
+Please feel free to clone projects and raise issues if you think something could be better.
+
+Happy Coding! 😊
+
+
 ```javascript
 // PROGRAMMER'S QUOTE
 ```
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 ```javascript
 always:
@@ -23,8 +31,7 @@ always:
 		you should goto always;
 	}
 ```
-
-
+### `We're made of star stuff. We are a way for the cosmos to know itself`- _Carl Sagan_
 <!--
 **pranjalagg/pranjalagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
