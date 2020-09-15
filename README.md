@@ -5,13 +5,10 @@ Please feel free to clone projects and raise issues if you think something could
 
 Happy Coding! 😊
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 ```javascript
 // PROGRAMMER'S QUOTE
-```
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
-
-```javascript
 always:
 	try{
 		your best and;
