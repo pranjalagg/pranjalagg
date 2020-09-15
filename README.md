@@ -1,7 +1,7 @@
-## Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+## Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://i.imgur.com/Vk2eWx1.gif" width="30px">
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone projects and raise issues if you think something could be better.
+You have finally discovered my **`GitHub Profile`**. <br>
+Please feel free to **clone** projects and **raise issues** if you think something could be better.
 
 Happy Coding! 😊
 
