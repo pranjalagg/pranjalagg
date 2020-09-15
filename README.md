@@ -1,4 +1,4 @@
-# Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://i.imgur.com/Vk2eWx1.gif" width="30px">
+<h2 align="center"> Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://i.imgur.com/Vk2eWx1.gif" width="30px"> </h2>
 
 <p align="center"><samp>You have finally discovered my <code><strong>GitHub Profile</strong></code>. <br>
 	Please feel free to <code><strong>clone</strong></code> projects and <code><strong>raise issues</strong></code> if you think something could be better.</samp></p>
