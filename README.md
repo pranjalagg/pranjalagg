@@ -9,6 +9,8 @@ Happy Coding! 😊
 
 ```javascript
 // PROGRAMMER'S QUOTE
+```
+```javascript
 always:
 	try{
 		your best and;
