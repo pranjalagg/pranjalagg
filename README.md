@@ -1,4 +1,25 @@
 ### Hi there 👋
+```javascript
+always:
+	try{
+		your best and;
+		do{
+			what you need to do;
+		} while (you still have time);
+
+		for (opportunity; comes; only once){
+			so grab the chance;
+		}
+
+		if (you fail)
+			throw "all your worries";
+	} catch (yourself){
+		everytime you fail;
+		and you know to whom
+		you should goto always;
+	}
+```
+
 
 <!--
 **pranjalagg/pranjalagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
