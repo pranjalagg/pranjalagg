@@ -1,4 +1,4 @@
-<h2 align="center"> Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://i.imgur.com/WkC2Lqe.gif" width="100px"> </h2>
+<h2 align="center"> Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <!-- <img src="https://i.imgur.com/WkC2Lqe.gif" width="100px"> --> </h2>
 
 <p align="center"><samp>You have finally discovered my <code><strong>GitHub Profile</strong></code>. <br>
 	Please feel free to <code><strong>clone</strong></code> my projects and <code><strong>raise issues</strong></code> if you think something could be better.</samp></p>
